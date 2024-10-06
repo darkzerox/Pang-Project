@@ -1,0 +1,38 @@
+.text-primary{
+color: #842c20;
+}
+
+.text-secondary{
+  color: #ef4b4b;
+}
+
+
+.fz-lg{
+  font-size: 18px;
+}
+
+.fz-md{
+  font-size: 16px;
+}
+
+.btn{
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+.btn:hover{
+  filter: brightness(0.9);
+}
+
+.btn-primary{
+  background-color: #f4f1ec;
+  color: #842c20;
+}
+
+.btn-secondary{
+  background-color: #ef4b4b;
+  color: #fff;
+}
+

@@ -1,0 +1,36 @@
+<template>
+  <div class="section-one container">
+    <div class="row">
+      <div class="col-12 col-md-6">
+        <h1 class="text-center text-primary">Welcome to the BUUIC Liaison Club!</h1>
+        <p class="fz-lg text-center text-primary">Connecting Cultures, Creating Friendships</p>
+        <p class="fz-md text-center text-primary">Sign up now to help exchange students build connections and memories
+          that last a lifetime.</p>
+      </div>
+
+      <div class="col-12 col-md-6">
+        <img src="/assets/images/banner-1.png" alt="banner-1" class="img-fluid">
+      </div>
+
+      <div class="btn-signup">
+        <a href="https://buuic.buu.ac.th/web/home/index.php/admission/" ref="noreferrer nofollow" target="_blank"
+          class="btn btn-primary">SIGN UP TODAY</a>
+      </div>
+
+
+    </div>
+  </div>
+</template>
+
+<script lang="ts" setup>
+
+</script>
+
+<style>
+.btn-signup {
+  position: absolute;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+</style>
