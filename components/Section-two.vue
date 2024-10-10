@@ -49,5 +49,6 @@ h2 {
 
 .icon-box-container {
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 </style>

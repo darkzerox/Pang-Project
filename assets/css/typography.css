@@ -8,7 +8,7 @@ color: #842c20;
 
 
 .fz-lg{
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .fz-md{
@@ -36,3 +36,6 @@ color: #842c20;
   color: #fff;
 }
 
+.text-shadow{
+    text-shadow: 2px 2px 5px #6c6c6c8c;
+}

@@ -1,14 +1,14 @@
 <template>
   <div class="row section-one">
     <div class="col-12 col-md-6">
-      <h1 class="text-center text-primary">Welcome to the BUUIC Liaison Club!</h1>
-      <p class="fz-lg text-center text-primary">Connecting Cultures, Creating Friendships</p>
-      <p class="fz-md text-center text-primary">Sign up now to help exchange students build connections and memories
+      <h1 class="text-center text-primary text-shadow">Welcome to the BUUIC Liaison Club!</h1>
+      <p class="fz-lg text-center text-primary text-shadow">Connecting Cultures, Creating Friendships</p>
+      <p class="fz-md text-center text-primary ">Sign up now to help exchange students build connections and memories
         that last a lifetime.</p>
     </div>
 
     <div class="col-12 col-md-6">
-      <img src="/public/images/banner-1.png" alt="banner-1" class="img-fluid">
+      <img src="/public/images/banner-1.png" alt="banner-1" class="img-fluid" style="opacity: 0.7;">
     </div>
 
     <div class="btn-signup">

@@ -2,6 +2,8 @@
   <div class="container">
     <section-one />
     <section-two />
+    <news />
+
   </div>
 </template>
 
