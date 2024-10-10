@@ -1,6 +1,6 @@
 <template>
   <div>
-    Footer
+
   </div>
 </template>
 
@@ -8,6 +8,4 @@
 
 </script>
 
-<style>
-
-</style>
+<style></style>

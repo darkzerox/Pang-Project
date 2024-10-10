@@ -72,3 +72,25 @@ p, h1, h2, h3, h4, h5, h6 {
 .flex-wrap{
   flex-wrap: wrap;
 }
+
+.offset-1{
+  margin-left: 8.33% !important ;
+}
+.offset-2{
+  margin-left: 16.66% !important;
+}
+.offset-3{
+  margin-left: 25% !important;
+}
+.offset-4{
+  margin-left: 33.33% !important;
+}
+.offset-6{
+  margin-left: 50% !important;
+}
+
+@media (max-width: 768px) {
+  .offset-1, .offset-2, .offset-3, .offset-4, .offset-6{
+    margin-left: 0 !important;
+  }
+}

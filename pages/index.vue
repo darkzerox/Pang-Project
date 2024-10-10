@@ -2,7 +2,9 @@
   <div class="container">
     <section-one />
     <section-two />
-    <news />
+    <section-news />
+    <section-social />
+    <section-leadform />
 
   </div>
 </template>

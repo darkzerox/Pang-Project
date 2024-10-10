@@ -10,9 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/icon": "^1.5.5",
     "@nuxt/image": "^1.8.1",
     "nuxt": "^3.13.0",
+    "nuxt-snackbar": "^1.1.2",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vue-toastification": "2.0.0-rc.5"
   }
 }

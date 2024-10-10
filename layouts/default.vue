@@ -3,6 +3,8 @@
     <Header />
     <slot />
     <Footer />
+    <NuxtSnackbar />
+
   </div>
 </template>
 
@@ -10,6 +12,4 @@
 
 </script>
 
-<style>
-
-</style>
+<style></style>
