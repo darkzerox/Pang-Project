@@ -7,10 +7,18 @@
   margin: 0;
 }
 
+html,body{
+  font-size: 16px;
+}
+
+@media screen and (max-width: 768px) {
+  html,body{
+    font-size: 12px;
+  }
+}
 
 body {
   line-height: 1.5;
-  font-size: 16px;
   -webkit-font-smoothing: antialiased;
   background-color: #f4f1ec;
 }

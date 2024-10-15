@@ -29,7 +29,7 @@
                   </label>
                   <textarea id="message" v-model="message" required class="form-control"></textarea>
                 </div>
-                <input type="submit" class="btn btn-primary font-basic w-auto" value="Submit">
+                <input type="submit" class="btn btn-primary font-basic w-auto" value="Call us today">
               </form>
             </div>
           </div>

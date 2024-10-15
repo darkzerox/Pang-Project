@@ -24,6 +24,15 @@ defineProps<{
   margin-bottom: 20px;
   align-items: center;
   justify-content: center;
+  height: 160px; 
+}
+@media screen and (max-width: 768px) {
+  .icon-box-icon {
+    height: auto;
+  }
+  .icon-box-icon img {
+    width: 150px;
+  }
 }
 
 p {

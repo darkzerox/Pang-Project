@@ -6,12 +6,14 @@
     </div>
   </div>
 
+  <!-- section 1 June 2024 -->
   <div class="row flex flex-wrap">
     <div class="col-6 order-1">
       <img src="/images/img1.png" alt="">
     </div>
     <div class="col-6 order-0 ">
       <div class="content mb-4">
+        <div class="heading-date text-shadow text-primary font-heading">June 2024</div>
         <h3 class="text-primary text-center text-shadow mb-4">Welcome FPT University</h3>
         <p class=" mb-4">BUUIC provided academic services for 52 freshmen students from FPT University’s Cantho
           Campus in Vietnam.</p>
@@ -23,6 +25,8 @@
       </div>
     </div>
   </div>
+
+  <!-- section 2 -->
 
   <div class="row flex flex-wrap">
     <div class="col-6  ">
@@ -45,15 +49,17 @@
     </div>
   </div>
 
+  <!-- section 3 -->
   <div class="row flex flex-wrap">
     <div class="col-6 order-1">
       <img src="/images/img3.png" alt="">
     </div>
     <div class="col-6 order-0 ">
       <div class="content mb-4">
-        <h3 class="text-primary text-center text-shadow mb-4">Welcome FPT University</h3>
-        <p class="mb-4 ">BUUIC provided academic services for 52 freshmen students from FPT University’s Cantho
-          Campus in Vietnam.</p>
+        <div class="heading-date text-shadow text-primary font-heading">August 2023</div>
+        <h3 class="text-primary text-center text-shadow mb-4">Welcome Policy Studies from 
+          Kansai University, Japan</h3>
+        <p class="mb-4 ">BUUIC organized the Cultural Exchange and English Program for students of Policy Studies at Kansai University. The program proved to be fruitful, offering insights into Thai tradition and culture, along with BUUIC liaison students.</p>
         <div class="text-center ">
           <a href="https://buuic.buu.ac.th/web/home/index.php/2024/06/11/buuic-provides-an-intensive-english-program-for-fpt-university/"
             class="btn btn-secondary">Click for more information</a>
@@ -63,21 +69,19 @@
     </div>
   </div>
 
+  <!-- section 4 -->
+
   <div class="row flex flex-wrap">
     <div class="col-6  ">
-      <img src="/images/img4.png" alt="">
+      <img src="/images/img4.jpeg" alt="">
     </div>
     <div class="col-6    ">
       <div class="content mb-4">
-        <h3 class="text-primary text-center text-shadow mb-4">BUUIC Welcomed Delegates from Ton Duc Thang University,
-          Vietnam
-
+        <div class="heading-date text-shadow text-primary font-heading">July 2024</div>
+        <h3 class="text-primary text-center text-shadow mb-4">Welcome students from Binus University, Indonesia
         </h3>
         <p class=" mb-4">
-          BUUIC hosted representatives from Ton Duc Thang University, including faculty members and students from June
-          17 to 22, 2024, for English skill development and cultural exchange. The visit featured a study of the
-          Bangsaen 21 Running event and a trip to Wat Phra Kaew in Bangkok.
-          This initiative strengthened ties between the two universities.</p>
+          Burapha University International College hosted a P2A Journey and Cultural Exchange Program for students from Binus University,Indonesia. These types of programs are part of the P2A partnership.</p>
 
         <div class="text-center ">
           <a href="https://buuic.buu.ac.th/web/home/index.php/2024/06/22/buuic-welcomed-delegates-from-ton-duc-thang-university-vietnam-for-the-cultural-exchange-program-in-thailand/"
@@ -97,7 +101,7 @@
 
 <style scoped>
 h2 {
-  font-size: 50px;
+  font-size: 3rem;
 }
 
 .section-header {
@@ -131,5 +135,11 @@ h3 {
   .order-1 {
     order: 0;
   }
+}
+
+.heading-date {
+  font-size: 20px;
+  border-bottom: 3px solid #fccf0b;
+  padding-left: 10px;
 }
 </style>

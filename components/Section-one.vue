@@ -8,7 +8,7 @@
     </div>
 
     <div class="col-12 col-md-6">
-      <img src="/public/images/banner-1.png" alt="banner-1" class="img-fluid" style="opacity: 0.7;">
+      <img src="/public/images/banner-1.png" alt="banner-1" class="img-fluid" style="opacity: 0.8;">
     </div>
 
     <div class="btn-signup">

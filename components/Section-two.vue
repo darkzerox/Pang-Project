@@ -40,7 +40,7 @@ const qualifications = ref([
 
 <style scoped>
 h2 {
-  font-size: 50px;
+  font-size: 3rem;
 }
 
 .section-two {
